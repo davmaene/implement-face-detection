@@ -6,4 +6,5 @@
 
 ## `Remarques`
 il faut lancer l'application dans un serveur, local ou en ligne sinon l'app ne va pas fonctionner
+`ie.` faut pas `double clicker` sur le fichier ```index.html```, cette methode ne va pas fonctionner
 
